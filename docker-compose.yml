@@ -1,0 +1,9 @@
+services:
+  fls:
+    build: .
+    container_name: FLS
+    restart: unless-stopped
+    ports:
+      - 1081:1081/tcp
+    volumes:
+      - "./data:/workdir"
