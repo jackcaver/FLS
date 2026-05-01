@@ -1,6 +1,7 @@
 # FLS
 Open-source server software for ModNation Racers PSP.
-Currently it is just a prototype
+
+Currently it is just a prototype...
 
 ## Legal disclaimer
 Sony Computer Entertaiment, United Front Games and San Diego Studios are not related to this project
